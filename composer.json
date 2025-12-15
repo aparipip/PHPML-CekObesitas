@@ -1,0 +1,13 @@
+{
+    "name": "arifn/deteksi-obesitas",
+    "description": "Sistem deteksi obesitas menggunakan Naive Bayes",
+    "authors": [
+        {
+            "name": "aparipip",
+            "email": "arifnc6@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.10.0"
+    }
+}
